@@ -1,6 +1,6 @@
 # alpine-aws-cli-2
 
-https://hub.docker.com/repository/docker/snaipeberry/alpine-aws-cli-2
+https://hub.docker.com/r/snaipeberry/alpine-aws-cli-2/tags
 
 Simple alpine image with new aws-cli-2 installed and ready to use.
 
